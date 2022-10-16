@@ -1,10 +1,9 @@
 const CONFIG = {
     introTitle: 'BAO HAN!',
-    introDesc: `Nay là một ngày đặc biệt, 20 năm trước có nàng công chúa
-    được ra đời.
-    Mong nàng tận hưởng sinh nhật
-    Và yêu mình hơn nhé`,
-    btnIntro: 'Tks you for being here',
+    introDesc: `Anh biết em đang phải cố gắng l nhiều việc.
+    Anh sợ nhiều lúc nói em cáu
+    Nhưng anh sẽ luôn động viên và ủng hộ em`,
+    btnIntro: 'Tks you for being here. Love you',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích anh <33',
