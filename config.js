@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Anh biết em đang phải cố gắng l nhiều việc.
     Anh sợ nhiều lúc nói em cáu
     Nhưng anh sẽ luôn động viên và ủng hộ em`,
-    btnIntro: 'Tks you for being here. Love you',
+    btnIntro: 'Tks you for being here.Love You',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích anh <33',
